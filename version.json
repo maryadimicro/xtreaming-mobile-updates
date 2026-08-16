@@ -1,13 +1,10 @@
 {
-  "version": "2.0.2",
+  "version": "2.0.3",
   "url": "https://github.com/maryadimicro/xtreaming-mobile-updates/releases",
-  "apk_url": "https://github.com/maryadimicro/xtreaming-mobile-updates/releases/download/Xv.2.0.2/Xtreaming.v2.0.2.apk",
+  "apk_url": "https://github.com/maryadimicro/xtreaming-mobile-updates/releases/download/Xv.2.0.3/Xtreaming.v2.0.3.apk",
   "whats_new": [
-    "Buy Me a Coffee: QR code GoPay untuk dukungan pengembangan",
-    "Fix: Install update via share dialog berfungsi normal",
-    "Clear cache: Continue Watching ikut terhapus dengan benar",
-    "Settings: UI section dirombak ulang, lebih rapi",
-    "Anime screen: tab TV Series & Manga tanpa sub-header berulang",
-    "About: informasi Author ditambahkan"
+    "Player: iklan & link pada tombol kontrol embed diblokir",
+    "Support Xtreaming: tambah section Buy Me a Coffee + QR GoPay",
+    "Check Update: cek versi terbaru dari repo GitHub baru"
   ]
 }
