@@ -1,10 +1,12 @@
 {
-  "version": "2.0.5",
+  "version": "2.0.6",
   "url": "https://github.com/maryadimicro/xtreaming-mobile-updates/releases",
-  "apk_url": "https://github.com/maryadimicro/xtreaming-mobile-updates/releases/download/Xv.2.0.5/Xtreaming.v2.0.5.apk",
+  "apk_url": "https://github.com/maryadimicro/xtreaming-mobile-updates/releases/download/Xv.2.0.6/Xtreaming.v2.0.6.apk",
   "whats_new": [
-    "Check Update: kini hanya tersedia di menu Settings",
-    "Banner update di Home/Movies/TV/Anime dihapus",
-    "Dialog update: tombol 'Update' diperjelas"
+    "Download: toast notifikasi setelah mulai download",
+    "Download: konfirmasi sebelum cancel/hapus",
+    "Download: info error/terputus + perbaikan stabilitas",
+    "Save to mengikuti Download path di Settings",
+    "Embed: sembunyikan link server (Cloud Server 01, 02, ...)"
   ]
 }
