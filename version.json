@@ -1,7 +1,7 @@
 {
-  "version": "2.0.6",
+  "version": "2.0.7",
   "url": "https://github.com/maryadimicro/xtreaming-mobile-updates/releases",
-  "apk_url": "https://github.com/maryadimicro/xtreaming-mobile-updates/releases/download/Xv.2.0.6/Xtreaming.v2.0.6.apk",
+  "apk_url": "https://github.com/maryadimicro/xtreaming-mobile-updates/releases/download/Xv.2.0.7/Xtreaming.v2.0.7.apk",
   "whats_new": [
     "Download: toast notifikasi setelah mulai download",
     "Download: konfirmasi sebelum cancel/hapus",
