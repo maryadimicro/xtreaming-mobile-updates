@@ -1,12 +1,11 @@
 {
-  "version": "2.0.6",
+  "version": "2.0.7",
   "url": "https://github.com/maryadimicro/xtreaming-mobile-updates/releases",
-  "apk_url": "https://github.com/maryadimicro/xtreaming-mobile-updates/releases/download/Xv.2.0.6/Xtreaming.v2.0.6.apk",
+  "apk_url": "https://github.com/maryadimicro/xtreaming-mobile-updates/releases/download/Xv.2.0.7/Xtreaming.v2.0.7.apk",
   "whats_new": [
-    "Download: toast notifikasi setelah mulai download",
-    "Download: konfirmasi sebelum cancel/hapus",
-    "Download: info error/terputus + perbaikan stabilitas",
-    "Save to mengikuti Download path di Settings",
-    "Embed: sembunyikan link server (Cloud Server 01, 02, ...)"
+    "Change location: Perubahan lokasi VidCore 404",
+    "Bug: Perbaikan indikator error 404",
+    "Player: info 'tahan 2-3 detik untuk play/pause' khusus VidKing",
+    "Adblock: Penambahan filterlist selector"
   ]
 }
