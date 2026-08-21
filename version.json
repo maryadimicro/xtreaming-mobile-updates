@@ -1,11 +1,11 @@
 {
-  "version": "2.0.7",
+  "version": "2.0.8",
   "url": "https://github.com/maryadimicro/xtreaming-mobile-updates/releases",
-  "apk_url": "https://github.com/maryadimicro/xtreaming-mobile-updates/releases/download/Xv.2.0.7/Xtreaming.v2.0.7.apk",
+  "apk_url": "https://github.com/maryadimicro/xtreaming-mobile-updates/releases/download/Xv.2.0.8/Xtreaming.v2.0.8.apk",
   "whats_new": [
-    "Change location: Perubahan lokasi VidCore 404",
-    "Bug: Perbaikan indikator error 404",
-    "VidKing: info 'tahan 2-3 detik pada player untuk play/pause'",
-    "Adblock: Penambahan filterlist selector"
+    "Download: perbaikan error CopyAsync/readAsStringAsync setelah 100%",
+    "Download: streaming file besar ke SAF (tanpa memuat ke memori)",
+    "Download: area luar progress tidak membatalkan unduhan",
+    "Embed: perbaikan indikator provider VidApi/VidCore/VidFast/VidLink"
   ]
 }
